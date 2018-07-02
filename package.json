@@ -1,8 +1,16 @@
 {
   "name": "@cfn-modules/vpc-flow-log",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "AWS VPC flow log",
   "author": "Michael Wittig <michael@widdix.de>",
   "license": "Apache-2.0",
-  "keywords": ["cfn-modules", "cfn-modules:ExposeArn", "cfn-modules:ExposeName"]
+  "keywords": ["cfn-modules", "cfn-modules:ExposeArn", "cfn-modules:ExposeName"],
+  "homepage": "https://github.com/cfn-modules",
+  "bugs": {
+    "url": "https://github.com/cfn-modules/vpc-flow-log/issues"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/cfn-modules/vpc-flow-log.git"
+  }
 }
