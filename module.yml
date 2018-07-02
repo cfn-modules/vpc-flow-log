@@ -51,7 +51,7 @@ Resources:
             - 'logs:PutLogEvents'
             - 'logs:DescribeLogGroups'
             - 'logs:DescribeLogStreams'
-            Resource: '*' # TODO would be nice if IAM would support an ARN here!
+            Resource: '*' # would be nice if IAM would support an ARN here!
   LogGroup:
     Type: 'AWS::Logs::LogGroup'
     Properties:
