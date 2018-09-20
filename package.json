@@ -1,6 +1,6 @@
 {
   "name": "@cfn-modules/vpc-flow-log",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "AWS VPC flow log",
   "author": "Michael Wittig <michael@widdix.de>",
   "license": "Apache-2.0",
