@@ -69,7 +69,7 @@ Outputs:
   ModuleId:
     Value: 'vpc-flow-log'
   ModuleVersion:
-    Value: '1.1.0'
+    Value: '2.0.0'
   StackName:
     Value: !Ref 'AWS::StackName'
   Arn:
